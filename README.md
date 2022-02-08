@@ -1,11 +1,10 @@
-### Hi there 👋
 
  <img  style="width: 1000px" src="header.svg"/>
 
 - 🔭 I’m currently working on NSDEV
 - 🌱 I’m currently learning nodejs/Express
-- 👯 I’m looking to collaborate on projects
-- 
+- 👯 I’m looking to collaborate on new projects
+
 <div align="center">
   <a href="https://github.com/GeoChivas99s">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeoChivas99s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
