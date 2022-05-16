@@ -1,7 +1,7 @@
 
  <img  style="width: 1000px" src="header.svg"/>
 
-- 🔭 I’m currently working on NSDEV/FrnCubo
+- 🔭 I’m currently working on NSDEV/DrCash
 - 🌱 I’m currently learning nodejs/Express
 - 👯 I’m looking to collaborate on new projects
 
